@@ -1,0 +1,9 @@
+﻿  ProfileImp.cpp
+  RunningApp.cpp
+C:\Users\Owner\OneDrive\Desktop\FinalExam\RunningApp.cpp(358,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\OneDrive\Desktop\FinalExam\RunningApp.cpp(363,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\OneDrive\Desktop\FinalExam\RunningApp.cpp(390,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\OneDrive\Desktop\FinalExam\RunningApp.cpp(474,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\OneDrive\Desktop\FinalExam\RunningApp.cpp(479,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FinalExam.vcxproj -> C:\Users\Owner\OneDrive\Desktop\FinalExam\Debug\FinalExam.exe
