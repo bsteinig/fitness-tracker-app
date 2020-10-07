@@ -2,4 +2,3 @@
 14 John Smith 35 150 M 08/21/1985 Intermediate
 
 15 Jane Doe 40 135 F 02/13/1980 Beginner
-16 Ben Stienig 18 140 M 10/20/2001 Beginner
